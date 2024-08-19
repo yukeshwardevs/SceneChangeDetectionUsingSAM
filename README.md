@@ -6,6 +6,9 @@
 # Final output
 <img width="960" alt="ScdSAMoutput" src="https://github.com/user-attachments/assets/b8bba0f6-d173-49dd-8e29-bd83ab53e602">
 
+# Transcript downloading as txt file
+<img width="960" alt="SCDtranscriptdownloadimg" src="https://github.com/user-attachments/assets/4b146703-a7d5-4c19-ab2a-061c982c4de8">
+
 This project focuses on detecting scene changes in videos by analyzing video frames using the Segment Anything Model (SAM). The aim is to efficiently segment video transcripts based on scene changes, making it easier to understand the video's structure.
 
 ## Use of SAM
