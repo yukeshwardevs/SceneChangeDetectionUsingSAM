@@ -58,4 +58,4 @@ This project focuses on detecting scene changes in videos by analyzing video fra
 This project showcases an approach to detecting scene changes in videos by combining frame analysis and background extraction using SAM. Despite challenges like voice-scene delays and YouTube restrictions, the method aims to improve transcript segmentation and video analysis.
 
 # Further ideas
-   implementation of temporal consistency. But it didn't work well with the masking method of SAM model. It has potential to increase accuracy for rapid scene change detection in fast moving scenes if implemented with appropirate parameters and proper temporal window length.
+   Implementation of temporal consistency. But it didn't work well with the masking method of SAM model. It has potential to increase accuracy for rapid scene change detection in fast moving scenes if implemented with appropirate parameters and proper temporal window length.
