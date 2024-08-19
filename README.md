@@ -1,3 +1,7 @@
+# Frame Extraction Output
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/33532b2a-f438-4aaa-b930-44010d263bc1">
+
+# Final output
 <img width="960" alt="ScdSAMoutput" src="https://github.com/user-attachments/assets/b8bba0f6-d173-49dd-8e29-bd83ab53e602">
 
 # Scene Change Detection in Videos using Segment Anything Model (SAM)
