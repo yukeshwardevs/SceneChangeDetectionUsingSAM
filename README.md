@@ -8,6 +8,8 @@
 
 This project focuses on detecting scene changes in videos by analyzing video frames using the Segment Anything Model (SAM). The aim is to efficiently segment video transcripts based on scene changes, making it easier to understand the video's structure.
 
+## Use of SAM
+   Generated mask over frame for scene detection and prediction of mask boundaries
 ## Challenges Faced
 
 1. **Voice-Scene Delay:**
