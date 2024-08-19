@@ -1,4 +1,6 @@
 # Scene Change Detection in Videos using Segment Anything Model (SAM)
+Huggingface Spaces: https://huggingface.co/spaces/yukeshwaradse/SceneChnageDetectionUsingSAM
+Note: Spaces deployment is currently not running due to limitation of directory creation feature in the current Spaces.
 
 # Frame Extraction Output
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/33532b2a-f438-4aaa-b930-44010d263bc1">
